@@ -1,0 +1,104 @@
+﻿Poison;Type;Fort DC;Onset;Frequency;Effect;Cure;Price;Source
+Arsenic;ingested;13;10 min;1/min for 4 mins;1d2 Con dmg;1 save;120;PZO1123
+Azure Lily Pollen;inhaled;15;—;1/min for 2 mins;Nauseated for 1 min/Paralyzed for 2d4 hrs;1 save;1,5;PZO1123
+Belladonna;ingested;14;10 min;1/min for 6 mins;1d2 Str dmg, see text;1 save;100;PZO1123
+Black Adder Venom;injury;11;—;1/rd. for 6 rds;1d2 Con dmg;1 save;120;PZO1123
+Black Lotus Extract;contact;20;1 min;1/rd. for 6 rds;1d6 Con dmg;2 saves;4,5;PZO1123
+Blood Marsh Spider Venom;injury;14;—;1/rd. for 6 rds;1d4 Dex dmg, confused for 1 rnd.;2 consecutive saves;800;PZO1121
+Blackfingers’s salt;Ingested;17;10 min;1/min for 6 mins;1d2 Con dmg and 1d3 Bleed;2 saves;300;PPC:P&P
+Blistercap Spore;contact;20;—;1/rd. for 6 rds;"1d2 Dex drain and 1 Con drain; Secondary: Sickened for 1 min";2 consecutive saves;1,125;PZO1140
+Blood Leaf Residue;contact;16;1 min;1/min for 6 mins;2d12 hp dmg/1 Con dmg;1 save;300;PZO1123
+Bloodpyre;contact;14;—;1/rd. for 6 rds;1 Cha, Int, and Wis dmg, 2d6 fire, see text;1 save;1;PPC:AoE
+Bloodroot;injury;12;1 rd.;1/rd. for 4 rds;1 Con and 1 Wis dmg;1 save;100;PZO1123
+Bloodwine;ingested;25;—;1/min for 6 mins;Sickened for 1d4 hrs, 1d3 Wis dmg;2 consecutive saves;100;PZO9041
+Blue Star;ingested;15;10 min;1/min for 6 mins;"1d2 Con dmg; resist poison save penalties, see text";2 consecutive saves;500;PZO1140
+Blue Whinnis;injury;14;—;1/rd. for 2 rds;1 Con dmg / Unconscious 1d3 hrs.;1 save;120;PZO1123
+Bluetip Eurypterid Poison;injury;16;—;1/rd. for 6 rds;1d4 Con dmg;2 consecutive saves;—;PZO9037
+Brain Rot;ingested;12;—;1 min;1d2 Int dmg;2 saves;—;PZO9037
+Brinestump Special;ingested;15;1 rd.;—;Nauseated 5 rds, gobinoids immune;1 save;400;PZO9456
+Burnt Othur Fumes;inhaled;18;—;1/rd. for 6 rds;1 Con drain / 1d3 Con dmg;2 saves;2,1;PZO1123
+Cloudthorn Venom;injury;14;1d4 rds;1/hr. for 3 hrs;"1d3 Str and Dex dmg; unable to feel pain for 1 hr. (immune to pain effects)";1 save;400;PZO1140
+Cockatrice Spit;contact, injury, ingested;12;—;1/rd. for 4 rds;"1d2 Dex dmg; Petrified at Dex=0";1 save;1;PZO9232
+Common Eurypterid Poison;injury;12;—;1/rd. for 4 rds;1d2 Con;1 save;—;PZO9037
+Crone’s Curse;inhaled;16;1d4 hrs;1/day for 6 days;"1 Dex and Wis dmg; saving throw penalties, see text";2 consecutive saves;600;PZO1140
+Dark Reaver Powder;ingested;18;10 min;1/min for 6 mins;1d3 Con and 1 Str dmg;2 saves;800;PZO1123
+Deathblade;injury;20;—;1/rd. for 6 rds;1d3 Con dmg;2 saves;1,8;PZO1123
+Dimorphodon Poison;injury;12;—;1/rd. for 4 rds;1d2 Str;1 save;—;PZO9037
+Diplopic serum;injury;15;—;1/rd. for 6 rds;1d2 Wis dmg, see text;1 save;250;PPC:P&P
+Dragon bile;contact;26;—;1/rd. for 6 rds;1d3 Str dmg;—;1,5;PZO1123
+Draughtcap Fungus;ingested;16;4d6 hrs;1/hr. for 8 hrs;"1d2 Str dmg; dehydration, see text";2 consecutive saves;150;PZO1140
+Dreaming death;inhaled;16;10 min;1/10 min for 1 hr;Sleep 10 min, see text;1 save;2,5;PPC:AoE
+Drow poison;injury;13;—;1/min for 2 mins;Unconscious 1 min/2d4 hrs.;1 save;75;PZO1123
+Fiddleback Venom;injury, ingested;13;1 min;1/min for 6 mins;"Nauseated 1d4 rds; Secondary: 1d3 Str dmg and 1d4 Con dmg";2 saves;500;PZO9232
+Fire Jackal Saliva;injury;12;—;1/rd for 6 rds;"1d6 acid dmg and Nausea; Secondary: 1d4 Dex";1 save;50;PZO9208
+Flaying Spider Venom;injury;11;1 rd.;1/rd for 6 rds;1d3 Con;1 save;100;PZO9208
+Gelidburn Oil;injury;12;—;1/rd. for 4 rds;1d3 fire dmg, 1d3 cold dmg, and Staggered 1 rd.;1 save;75;PPC:P&P
+Giant Wasp Poison;injury;18;—;1/rd. for 6 rds;1d2 Dex dmg;1 save;210;PZO1123
+Glass Urchin Venom;contact or injury;16;—;1/rd. for 6 rds;1d4 Wis and Confused for 1 rd;2 consecutive saves;—;PZO9037
+Goblin’s Eye;ingested;13;1 min;1/min for 6 mins;1 Con dmg and the creature is Nauseated for 1 min;1 save;75;PZO1140
+Gobinvine Oil;contact;10;1 rd.;—;Sickened;2 consecutive saves or 1 min of washing;125;PZO9456
+Gray Justice;injury;18;—;1/min for 10 min;1d2 Wis dmg, see text;2 saves;400;PPC:AoE
+Green Prismatic Poison;spell;varies;—;1/rd. for 6 rds;Death/1 Con dmg;2 saves;—;PZO1123
+Greenblood Oil;injury;13;—;1/rd. for 4 rds;1 Con dmg;1 save;100;PZO1123
+Grinding Joint Paste;ingested;16;10 min;1/min for 6 mins;1d4 Dex dmg and pain (see text);1 save;2,1;PZO9481
+Hag Spit;injury, ingested;16;—;1/rd. for 6 rds;"Blindness for 1d10 rds; Secondary: 1d4 Wis dmg";2 saves;1,5;PZO9232
+Halo Mushroom Toxin;ingested;18;10 min;1/min for 6 mins;Distraction (see text)/1d4 Wis dmg;2 consecutive saves;500;PZO9481
+Hemlock;ingested;18;10 min;1/min for 6 mins;1d6 Dex dmg, see text;2 saves;2,5;PZO1123
+Hunter Urchin Venom;injury;13;—;1/rd. for 6 rds;Staggered for 1 rd;1 save;—;PZO9037
+Hydrofluoric Acid;Contact;20;1 min;1/rd. for 6 rds;"1d2 Str drain, 1d2 Con dmg, 2d6 acid dmg; see text";2 consecutive saves;2,5;PPC:P&P
+Id Moss;ingested;14;10 min;1/min for 6 mins;1d3 Int dmg;1 save;125;PZO1123
+Insanity Mist;inhaled;15;—;1/rd. for 6 rds;1d3 Wis dmg;1 save;1,5;PZO1123
+Insanity Pill;ingested;14;1 min;—;Affected as confusion for 1 min;2 consecutive saves;1,5;PZO9208
+Insecticide;Inhaled;10*;—;1/rd. for 3 rds;"1 Str dmg; see text";1 save;175;PPC:P&P
+Jackalroot Essence;injury;18;—;1/rd. for 1d6 rds;Uncontrollable laughter (as per hideous laughter);2 consecutive saves;600;PZO1140
+Juvebloom;Ingested;16;1 day;1/day for 7 days;"1 Wis drain; see text";1 save;750;PPC:P&P
+King’s Sleep;ingested;19;1 day;1/day;1 Con drain;2 saves;5;PZO1123
+Large Scorpion Venom;injury;17;—;1/rd. for 6 rds;1d2 Str dmg;1 save;200;PZO1123
+Leng’s Tears;contact;18;1 rd.;1/10 min for 1 hr.;1d2 Wis dmg and Paralyzed 10 min;1 save;1,5;PZO9481
+Lich Dust;ingested;17;10 min;1/min for 6 mins;1d3 Str dmg;2 saves;400;PZO1123
+Mage Bane;contact;20;1 min;1/min for 6 mins;-10 to all Concentration DCs for 1 hr;2 consecutive saves;500;PZO9208
+Medium Spider Venom;injury;14;—;1/rd. for 4 rds;1d2 Str dmg;1 save;150;PZO1123
+Mindrust;inhaled;20;—;1/rd. for 6 rds;"1 Wis dmg and suggestible for 1 min; see text";2 consecutive saves;1,6;PZO9293E
+Moonberries;contact, ingested;18;1 rd.;Once;3d6 Con dmg;;1,5;ToH
+Nerveblast;injury;19;—;1/rd. for 6 rds;1 Dex drain and Shaken for 1 hr.;2 consecutive saves;1,5;PPC:P&P
+Night’s-eye Dust;inhaled;14;—;1/rd. for 6 rds;Shaken/Blinded;2 consecutive saves;900;PZO9481
+Nightmare Vapor;inhaled;20;—;1/rd. for 6 rds;1 Wis dmg and Confused 1 rd.;2 saves;1,8;PZO1123
+Nitharit;contact;13;1 min;1/min for 6 mins;1d3 Con dmg;1 save;650;PZO1123
+Nymph’s Lure;ingested;15;1d4 hrs;1/hr. for 8 hrs;"1d2 Str and Wis dmg; attract wild creatures, see text";1 save;250;PZO1140
+Ochre Eurypterid Poison;injury;10;—;1/rd. for 4 rds;1 Dex;1 save;—;PZO9037
+Oil of Restfulness;ingested;15;1 min;—;Unconscious 1d3 hrs;1 save;90;PZO1123
+Ossivane;injury;18;—;1/rd. for 6 rds (see text);1d3 Dex dmg;2 saves;350;PPC:P&P
+Pupil’s Friend;ingested;10;10 min;1/min for 15 mins;"Sickened for 1 min; see text";1 save;30;PPC:P&P
+Purple Keif;ingested;18;1 min;—;"1d2 Con and Str; Secondary: Unconsious 1 hr";1 save;200;PZO9208
+Purple Worm Poison;injury;24;—;1/rd. for 6 rds;1d3 Str dmg;2 saves;700;PZO1123
+Ragespittle;contact;17;1 min;1/min for 6 mins;1d2 Dex dmg, see text;2 saves;1;PPC:AoE
+Rainbow Jellyfish Toxin;injury, contact;14;—;1/rd. for 2 rds;"Staggered for 1d6 rds; Secondary: Paralyzed for 1d6 min";1 save;400;PZO9232
+Rainbow Scarab Shell;injury;14;1 rd.;1/rd. for 4 rds;1d4 Str dmg and suffocation;1 save;150;PZO9481
+Red Bedlam;ingested;15;10 min;1/min for 10 mins;Confusion;2 consecutive saves;1,2;PZO1140
+Scholarblight;inhaled;15;—;1/min for 6 mins;1d3 Int dmg, see text;1 save;1,5;PPC:AoE
+Sea Urchin Venom;injury;11;—;1/min for 6 mins;Sickened for 1 min;1 save;—;PZO9037
+Shadow Essence;injury;17;—;1/rd. for 6 rds;1 Str drain / 1d2 Str dmg;1 save;250;PZO1123
+Skinsap Extract;injury;16;—;1/rd. for 6 rds (see text);1d2 Dex, Staggered, and Confused;1 save;1,4;PZO9481
+Small Centipede Poison;injury;11;—;1/rd. for 4 rds;1 Dex dmg;1 save;90;PZO1123
+Spear Urchin Venom;injury;16;—;1/rd. for 6 rds;1d2 Str, Nauseated for 1 rd;1 save;—;PZO9037
+Spider Vine Poison;injury;15;—;1/rd. for 6 rds;"Paralysis; Secondary: 1d2 Con dmg";2 consecutive saves;—;PZO9222
+Spiny Eurpterid Poison;injury;21;—;1/rd. for 6 rds;1d4 Con and 1d2 Dex;2 consecutive saves;—;PZO9037
+Starving Nettle;injury;15;?;1/day for 8 days;"1d3 Dex and Con dmg; Nausea, see text";2 consecutive saves;300;PZO1140
+Striped Toadstool;ingested;11;10 min;1/min for 4 mins;1d3 Wis dmg, 1 Int dmg;1 save;180;PZO1123
+Styx Sap;contact;18;1d4 min;1/10 min for 1 hr;"1d4 Wis dmg, memory loss; see text";1 save;2,6;PZO1140
+Swampseer Poison;ingested;18;10 min;1/min for 3 mins;"1d4 Wis dmg; Secondary: 1d2 Wis dmg and Confusion";2 consecutive saves;400;PZO1123
+Sweetdream;inhaled;19;1 rd.;1/min for 2 mins;Sleep and forget (see text);1 save;900;PZO9481E
+Tangle Root Paste;contact;16;1 min;1/min for 6 mins;1d2 Dex dmg;1 save;250;PZO1123
+Tears of Death;contact;22;1 min;1/min for 6 mins;1d6 Con dmg and Paralyzed 1 min;—;6,5;PZO1123
+Tongue Twist;injury;16;—;1/rd. for 6 rds;"1d2 Int dmg; see text";2 saves;600;PPC:P&P
+Twister Root;contact;16;1 min;1/min for 6 mins;1d3 Dex dmg;1 save;400;PZO1123
+Third Eye;contact;17;1 min;1/rd. for 6 rds;1d3 Wis dmg. Each time the victim takes Wis dmg, it must succeed at a DC 17 Will save or become confused for that rd.;2 consecutive saves;900;PZO1140
+Ungol Dust;inhaled;15;—;1/rd. for 4 rds;1 Cha drain/1d2 Cha dmg;1 save;1;PZO1123
+Violet Venom;contact;13;—;1/min for 6 mins;1d2 Str dmg, 1d2 Con dmg;1 save;800;PZO1123
+Wasp Swarm Poison;injury;13;—;1/rd. for 4 rds;1 Dex dmg;1 save;—;PZO1123
+Waters of the Whispering River;contact;16;1 rd.;1/rd. for 6 rds;"1 Con drain; Secondary: 1d3 Con dmg";2 consecutive saves;—;PZO9524
+Widow’s Kiss;ingested;24;1d4 days;1/day;1d3 Con, see text;3 saves;7;PPC:AoE
+Witch-Hunter’s Sword;ingested;19;10 min;1/hr. for 8 hrs;"1 Int, Wis, and Cha dmg, Concentration check penalty; see text";2 consecutive saves;850;PZO1140
+Wolfsbane;ingested;16;10 min;1/min for 6 mins;1d3 Con dmg;1 save;500;PZO1123
+Woundweal;injury;18;1 rd.;1/day;"Impaired healing; see text";2 consecutive saves;100;PZO9410
+Wyvern Poison;injury;17;—;1/rd. for 6 rds;1d4 Con dmg;2 saves;3;PZO1123

@@ -1,0 +1,42 @@
+﻿Name;Type;Fortitude;Onset;Frequency;Effect;Cure
+Bonecrusher (Dengue);injury;DC 12;1 week;1/day;1d4 Dex damage;2 consecutive saves
+Filth Fever;injury;DC 12;1d3 days;1/day;1d3 Dex damage and 1d3 Con damage;2 consecutive saves
+Fungal Flu;inhaled;DC 12;3d6 days;1/day;1d4 Con. Rolling a 1 on any Fortitude save to resist taking damage from fungal flu results in blindness. The blindness persists - even resisting spells like remove blindness/deafness - until the disease is cured.;2 consecutive saves
+Leprosy;contact, inhaled, or injury;"DC 12 ((negates; DC 20 to avoid effects))";2d4 weeks;1/week;1d2 Cha damage;2 consecutive saves
+Mindfire;inhaled;DC 12;1 day;1/day;1d4 Int damage;2 consecutive saves
+Ghoul Fever;injury;DC 13;1 day;1/day;1d3 Con and 1d3 Dex damage;2 consecutive saves
+Green Haze;contact;DC 13;1 day;1/day;-4 on Perception checks, target is permanently blinded if it fails 3 saves;2 consecutive saves
+Shakes;contact;DC 13;1 day;1/day;1d8 Dex damage;2 consecutive saves
+Brainworms;contact or injury;DC 14;1 day;1/day;1d3 Wis damage and 1d3 Int damage, if damaged in combat, target must make a second Fort save or gain the confused condition for the duration of the encounter;2 consecutive saves
+Devil Chills;injury;DC 14;1d4 days;1/day;1d4 Str damage;3 consecutive saves
+Sleeping Sickness;injury;DC 14;1d2 days;1/day;1d4 Wis damage and target is fatigued;2 consecutive saves or arsenic (see text)
+Slimy Doom;contact;DC 14;1 day;1/day;1d4 Con damage, target must make a second Fort save or 1 point of the damage is drain instead;2 consecutive saves
+Tetanus;injury;DC 14;1d6 days;1/day;1d4 Dex. Each time someone takes Dexterity damage from tetanus, there's a 50% chance his jaw muscles stiffen, preventing speech and the use of spells with verbal components for the next 24 hours.;2 consecutive saves
+Glacier Plague;contact or injury;DC 15;1 day;1/day;1d6 points of Dex damage and target is exhausted, its speed is reduced by half, and it is unable to speak;2 consecutive saves
+Greenscale;injury;DC 15;1d6 days;1/week;1d2 Cha damage and 1d2 Dex damage, target must make a second Fort save or 1 point of the Cha damage is drain instead;2 consecutive saves
+Moxix's Delectation;injury;DC 15;1 day;1/day;1d3 Con and 1d3 Wis damage;2 consecutive saves
+Red Ache;injury;DC 15;1d3 days;1/day;1d6 Str damage;2 consecutive saves
+Spellscar Fever;ingested or inhaled;DC 15 (+1 per previous save);2d6+1 days;1/day;1d2 Con damage, 1d2 Cha drain;2 consecutive saves
+The Tainted Plague;contact;DC 15 (see description);1 day;1/day;1d6 Con and 1d6 Wis;2 consecutive saves
+Blinding Sickness;ingested;DC 16;1d3 days;1/day;1d4 Str damage, if more than 2 Str damage, target must make an additional Fort save or be permanently blinded;2 consecutive saves
+Blood Veil;contact or injury;DC 16 (the first time ethnically Varisian humanoids, including human, half-elves, and half-orcs with Varisian parentage, are exposed to blood veil, each such character has a flat 5% chance that she is immune to the disease);1 day;1/day;1d4 Con damage and 1d4 Cha damage;
+Bonechill;injury;DC 16;1 day;1/day;1d4 Dex damage and any nonlethal damage incurred from being in a cold environment becomes lethal damage (though it can still cause hypothermia);2 consecutive saves
+Boot Soup;contact;DC 16;1 day;1/day;speed reduced by 5 feet and 1d3 Dex damage, creatures reduced to 0 feet are permanently paralyzed;2 consecutive saves, or completely skinning or burning the affected area (inflicting 1d8 points of damage)
+Cackle Fever;inhaled;DC 16;1 day;1/day;1d6 Wis damage;2 consecutive saves
+Dvezda Plague;ingested or inhaled;DC 16;1d4 days;1/day;1d4 Con damage and 1 Dex damage;2 consecutive saves
+Dysentary;contact or injury;DC 16;1d3 days;1/day;1d6 nonlethal damage and target is fatigued and staggered;2 consecutive saves
+Pulsing Puffs;injury;DC 16;1 day;1/day;1d4 Dex damage;2 consecutive saves
+The Scales;contact or injury;DC 16;1d4 days;1/2 days;1d2 Dex damage and 1d2 Cha damage;2 consecutive saves. Reptiles and creatures with the reptilian subtype receive a -2 penalty on saving throws and require 3 consecutive saves to recover.
+Bubonic Plague;injury or inhaled;DC 17;1 day;1/day;1d4 Con damage and 1 Cha damage and target is fatigued;2 consecutive saves
+Chillbane Fever;inhaled, injury;DC 17;1 day;1/day;1d4 Con damage and target is sickened and fatigued;2 consecutive saves
+Firegut;injury or inhaled;DC 17;1 day;1/day;target is staggered;3 consecutive saves
+Demon Fever;injury;DC 18;1 day;1/day;1d6 Con damage, target must make a second Fort save or 1 point of the damage is drain instead;2 consecutive saves
+Demonplague;injury or ingested;DC 18;1 day;1/day;"1d3 Con damage and 1d6 Wis damage, and victim is fatigued if it takes any ability damage from the disease; certain creatures slain by demonplague rise as plagued beasts (see page 56)";3 consecutive saves
+Malaria (Jungle Fever);injury;DC 18;1d3 days;1/day;1d3 Str damage and 1d3 Con damage and target is fatigued;2 consecutive saves
+Red Drip;contact (fungus);DC 18;1 day;1/day;1d4 Dex damage and 1d2 Cha damage;2 consecutive saves or amputation of infected limb
+Ergia;contact;DC 20;1 day;1/day;1d4 Str damage and 1d4 Con damage, target must make a second Fort save or 1 point of the damage is drain instead, and a creature that has suffered ability drain glows blue as if limned with faerie fire;2 consecutive saves
+Scarlet Leprosy;contact;DC 20;1 day;1/day;"1d6 Con damage and 1d6 Cha damage; whenever the character takes Con damage, 1 point is permanent drain";2 consecutive saves
+Vorel's Phage;contact or ingestion;DC 20;1 day;1/day;1d4 Cha and 1d4 Con.;2 consecutive saves
+Blightburn Sickness;contact (see text);DC 22;1 day;1/day;"1d6 Con damage and 1d6 Cha damage; contact is automatic when a creature comes within a 60- foot radius of blightburn, and can be blocked only by lead sheeting, 1 foot of stone, or a force effect";2 consecutive saves
+Crypt Fever;contact or inhaled;DC 22;1 minute;1/day;1d6 Str damage, 1d6 Cha damage, and victim is exhausted;crypt fever can only be cured by successfully casting remove curse and remove disease within 1 minute of each other.
+Daemonic Wasting;contact;DC 23;1 day;1/day;1d4 Con damage and 1d4 Cha damage;2 consecutive saves

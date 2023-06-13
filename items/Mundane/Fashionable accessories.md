@@ -1,0 +1,24 @@
+﻿---
+Title: "Fashionable accessories"
+Type: "Mundane"
+Price: "20 gp"
+Weight: "5 lbs."
+Slot: "Slotless"
+Description: |
+  "These accessories allow a courtier's, entertainer's, or noble's outfit to match the height of style in a particular city for 2d4 months. You gain a +2 circumstance bonus on Diplomacy checks to make requests of denizens of that city while wearing the accessories and an appropriate outfit. The bonus also applies on Bluff and Disguise checks to convince others that you hail from that city."
+Sources: "['Heroes of the Streets']"
+---
+
+# Fashionable accessories
+
+### Properties
+
+**Type:** Mundane **Price:** 20 gp **Weight:** 5 lbs. **Slot:** Slotless
+
+### Description
+
+These accessories allow a courtier's, entertainer's, or _[[items/Mundane/Noble's outfit|noble's outfit]]_ to match the height of style in a particular city for 2d4 months. You gain a +2 circumstance bonus on Diplomacy checks to make requests of denizens of that city while wearing the accessories and an appropriate outfit. The bonus also applies on Bluff and Disguise checks to convince others that you hail from that city.
+
+### Sources
+
+* Heroes of the Streets

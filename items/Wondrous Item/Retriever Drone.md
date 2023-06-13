@@ -1,0 +1,46 @@
+﻿---
+Title: "Retriever Drone"
+Type: "Wondrous Item"
+Price: "8000 gp"
+Weight: "5 lbs."
+Slot: "Slotless"
+Caster level: "15"
+Aura: "strong conjuration"
+Description: |
+  "A _retriever drone_ appears as a masterfully preserved spider the size of a house cat, whose eyes have been replaced by four glittering gemstones. These devices are created by spellcasters who wish to control their own retrievers, since the secret of creating those monsters is beyond mortal capacity to understand.
+  A retriever drone can be used to usurp control of a retriever that is within 30 feet. To take control of a retriever, the user of a retriever drone must have line of sight to the target and concentrate on it while holding the retriever drone in both hands. The target retriever can resist the attempt to take control by succeeding at a DC 16 Will save. If the retriever is currently on a mission to retrieve a target, it gains a +8 bonus on this save. If the retriever's saving throw is successful, the drone thrashes and scurries, making a single +15 bite attack (1d6+4 damage) against its carrier before becoming inert for 24 hours.
+  If the retriever fails to resist, it falls under the control of the person who carried the drone—this control is permanent as long as the retriever drone exists and the person who activated the drone is chaotic evil. If the controller isn't chaotic evil, control granted lasts for only 24 hours. If the retriever controlled by a drone is destroyed, the drone itself crumbles to dust.
+  As a full-round action while touching an active retriever drone, the user can look through the eyes of a controlled retriever and direct its actions. If the drone is destroyed while the user is linked in this manner, the user takes 1d4 points of Constitution damage (Fortitude DC 16 negates)."
+Crafting cost: "4000 gp"
+Sources: "["Pathfinder #75: Demon's Heresy"]"
+---
+
+# Retriever Drone
+
+### Properties
+
+**Type:** Wondrous Item **Price:** 8000 gp **Weight:** 5 lbs. **Slot:** Slotless
+
+##### Magical properties
+
+**Caster level:** 15 **Aura:** strong conjuration
+
+### Description
+
+A _[[items/Wondrous Item/Retriever Drone|retriever drone]]_ appears as a masterfully preserved spider the size of a house cat, whose eyes have been replaced by four glittering gemstones. These devices are created by spellcasters who _[[spells/Wish|wish]]_ to control their own retrievers, since the secret of creating those monsters is beyond mortal capacity to understand.
+
+A _retriever drone_ can be used to usurp control of a _[[monsters/Retriever|retriever]]_ that is within 30 feet. To take control of a _retriever_, the user of a _retriever drone_ must have line of sight to the target and concentrate on it while holding the _retriever drone_ in both hands. The target _retriever_ can resist the attempt to take control by succeeding at a DC 16 Will save. If the _retriever_ is currently on a mission to retrieve a target, it gains a +8 bonus on this save. If the _retriever_'s saving throw is successful, the drone thrashes and scurries, making a single +15 bite attack (1d6+4 damage) against its carrier before becoming inert for 24 hours.
+
+If the _retriever_ fails to resist, it falls under the control of the person who carried the drone—this control is permanent as long as the _retriever drone_ exists and the person who activated the drone is chaotic evil. If the controller isn't chaotic evil, control granted lasts for only 24 hours. If the _retriever_ controlled by a drone is destroyed, the drone itself crumbles to dust.
+
+As a full-round action while touching an active _retriever drone_, the user can look through the eyes of a controlled _retriever_ and direct its actions. If the drone is destroyed while the user is linked in this manner, the user takes 1d4 points of Constitution damage (Fortitude DC 16 negates).
+
+### Crafting requirements
+
+**Crafting cost:** 4000 gp
+
+_[[feats/Craft Construct|Craft Construct]]_, _[[feats/Craft Wondrous Item|Craft Wondrous Item]]_, greater _[[spells/Planar Binding|planar binding]]_, _[[spells/Scrying|scrying]]_
+
+### Sources
+
+* Pathfinder #75: Demon's Heresy

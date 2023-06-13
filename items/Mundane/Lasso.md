@@ -1,0 +1,21 @@
+﻿---
+Title: "Lasso"
+Type: "Mundane"
+Price: "0.1 gp"
+Weight: "5 lbs."
+Slot: "Slotless"
+Description: |
+  "This thrown weapon is a length of rope with a simple open knot on one end that allows you entangle a foe like you would using a net. The DC to cast a spell while entangled with a lasso is 10 + the spell level being cast. An entangled creature can slip free with a successful DC 15 Escape Artist check as a full-round action. The lasso has 2 hit points and AC 10, and requires a DC 23 Strength check to break it. On a successful hit, the lasso tightens; to use it again you must spend a standard action sliding the knot to enlarge the loop."
+Sources: "["Advanced Player's Guide", "Adventurer's Armory", 'Ranged Tactics Toolbox', 'Ultimate Equipment']"
+---
+
+# Lasso
+
+### Properties
+
+**Type:** Mundane **Price:** 0.1 gp **Weight:** 5 lbs. **Slot:** Slotless
+
+### Description
+
+This thrown weapon is a length of rope with a simple open knot on one end that allows you _[[spells/Entangle|entangle]]_ a foe like you would using a _[[items/Mundane/Net|net]]_. The DC to cast a spell while _[[conditions/Entangled|entangled]]_ with a _[[items/Mundane/Lasso|lasso]]_ is 10 + the spell level being cast. An _entangled_ creature can slip free with a successful DC 15 Escape Artist check as a full-round action. The _lasso_ has 2 hit points and AC 10, and requires a DC 23 Strength check to break it. On a successful hit, the _lasso_ tightens; to use it again you must spend a standard action sliding the knot to enlarge the loop.
+

@@ -1,0 +1,13 @@
+---
+name: Pounce
+type: <class 'type'>
+text:
+  "Can a creature with pounce make iterative attacks with weapons as part of my full attack?Any melee attack sequence you can perform as a full attack is allowed as part of the charge-pounce-full attack. For example, a barbarian with the greater beast totem rage power gains the pounce universal monster ability and could make iterative attacks with manufactured melee weapons as part of her charge-pounce-full attack.If a creature with pounce is under a slow effect, and it charges, does it still get its full attack from pounce?According to the rules as written, pounce would allow the creature its full attack, despite the slow effect. (This happens because there is no partial charge action.)If a creature with pounce is under a haste effect, and it charges, does it get the extra attack from haste?Yes. This is a revised ruling about how haste interacts with effects that are essentially a full attack, even though the creature isn't specifically using the full attack action (as required by haste). The earlier ruling implied that pounce did not allow the extra attack from haste because pounce wasn't using the full attack action.When a creature with this special attack makes a charge, it can make a full attack (including rake attacks if the creature also has the rake ability)."
+format:
+  "_Format:_ pounce; Location: Special Attacks."
+---
+ 
+# Pounce (Ex)
+Can a creature with pounce make iterative attacks with weapons as part of my full attack?Any melee attack sequence you can perform as a full attack is allowed as part of the charge-pounce-full attack. For example, a barbarian with the greater beast totem rage power gains the pounce universal monster ability and could make iterative attacks with manufactured melee weapons as part of her charge-pounce-full attack.If a creature with pounce is under a slow effect, and it charges, does it still get its full attack from pounce?According to the rules as written, pounce would allow the creature its full attack, despite the slow effect. (This happens because there is no partial charge action.)If a creature with pounce is under a haste effect, and it charges, does it get the extra attack from haste?Yes. This is a revised ruling about how haste interacts with effects that are essentially a full attack, even though the creature isn't specifically using the full attack action (as required by haste). The earlier ruling implied that pounce did not allow the extra attack from haste because pounce wasn't using the full attack action.When a creature with this special attack makes a charge, it can make a full attack (including rake attacks if the creature also has the rake ability).
+
+_Format:_ pounce; Location: Special Attacks.

@@ -1,0 +1,21 @@
+﻿---
+Title: "Parasol (umbrella)"
+Type: "Mundane"
+Price: "2 gp"
+Weight: "3 lbs."
+Slot: "Slotless"
+Description: |
+  "This folding umbrella is translucent and not waterproof. It cuts down on the heat from direct sunlight. In very hot conditions where the sun is a factor (such as a desert), it gives you a +1 circumstance bonus on your hourly Fortitude saves against heat, and reduces the damage from a failed save by 1 hit point (minimum 1). It provides insufficient protection in conditions of severe or extreme heat. You must hold a parasol in one hand and use it to shade yourself from the sun. Alternatively, you can hold the parasol and use it to shade another creature of your size or smaller. The listed price is for a simple, functional parasol made of fabric or lacquered paper. A parasol used as a fashion accessory can be far more expensive, depending on the materials used, and can cost from 1 gp to 10 gp. Umbrella: An umbrella is a heavier, waterproof parasol made of oiled or waxed cloth. It is intended to keep you dry in the rain or snow, but can still protect against sunlight just like a standard parasol."
+Sources: "['Ultimate Equipment']"
+---
+
+# Parasol (umbrella)
+
+### Properties
+
+**Type:** Mundane **Price:** 2 gp **Weight:** 3 lbs. **Slot:** Slotless
+
+### Description
+
+This _[[items/Armor Magic Abilities/Folding|folding]]_ umbrella is translucent and not waterproof. It cuts down on the _[[universal monster rules/Heat|heat]]_ from direct sunlight. In very hot conditions where the sun is a factor (such as a desert), it gives you a +1 circumstance bonus on your hourly Fortitude saves against _heat_, and reduces the damage from a failed save by 1 hit point (minimum 1). It provides insufficient protection in conditions of severe or extreme _heat_. You must hold a parasol in one hand and use it to shade yourself from the sun. Alternatively, you can hold the parasol and use it to shade another creature of your size or smaller. The listed price is for a simple, functional parasol made of fabric or lacquered paper. A parasol used as a fashion accessory can be far more expensive, depending on the materials used, and can cost from 1 gp to 10 gp. Umbrella: An umbrella is a heavier, waterproof parasol made of oiled or waxed cloth. It is intended to keep you dry in the rain or snow, but can still protect against sunlight just like a standard parasol.
+

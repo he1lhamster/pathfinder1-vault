@@ -1,0 +1,25 @@
+﻿---
+Title: "Kaava musk"
+Type: "Mundane"
+Price: "40 gp"
+Weight: "0.5 lbs."
+Slot: "Slotless"
+Description: |
+  "This emerald-colored adhesive is made from animal glands, urine, and other powerful scents that are difficult to wash off. A target splashed with it smells like weak prey to predators. Creatures with the scent ability can detect a marked creature at five times the normal range, note its direction as a free action, pinpoint it when it is within 25 feet, and track it by scent with a +5 bonus on their Survival checks. Immersion in water within 1 round of exposure washes the musk off; otherwise the effect decreases by 1 range increment per day (four times normal range after 1 day, three times normal range after 2 days, and so on) until the creature is again at normal scent levels. One dose of Kaava musk costs 40 gp and weighs 1/2 lb.; the Craft (alchemy) DC to create Kaava musk is 20. For more information on Kaava musk, see page 31."
+Sources: "["Adventurer's Armory", 'Sargava, the Lost Colony']"
+---
+
+# Kaava musk
+
+### Properties
+
+**Type:** Mundane **Price:** 40 gp **Weight:** 0.5 lbs. **Slot:** Slotless
+
+### Description
+
+This emerald-colored _[[items/Armor Magic Abilities/Adhesive|adhesive]]_ is made from animal glands, urine, and other powerful scents that are difficult to wash off. A target splashed with it smells like weak prey to predators. Creatures with the _[[universal monster rules/Scent|scent]]_ ability can detect a marked creature at five times the normal range, note its direction as a free action, pinpoint it when it is within 25 feet, and track it by _scent_ with a +5 bonus on their Survival checks. Immersion in water within 1 round of exposure washes the musk off; otherwise the effect decreases by 1 range increment per day (four times normal range after 1 day, three times normal range after 2 days, and so on) until the creature is again at normal _scent_ levels. One dose of _[[items/Mundane/Kaava musk|Kaava musk]]_ costs 40 gp and weighs 1/2 lb.; the Craft (alchemy) DC to create _Kaava musk_ is 20. For more information on _Kaava musk_, see page 31.
+
+### Sources
+
+* Adventurer's Armory
+* Sargava, the Lost Colony

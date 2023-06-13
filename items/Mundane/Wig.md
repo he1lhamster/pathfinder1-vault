@@ -1,0 +1,25 @@
+﻿---
+Title: "Wig"
+Type: "Mundane"
+Price: "5 gp"
+Weight: "0.5 lbs."
+Slot: "Slotless"
+Description: |
+  "False hair comes in many forms, from the severe coif of a judge to the towering confection adorning a noble to the simple curls worn by a housewife whose hair is thinning. Wigs can be found for sale in any major city and can be special-ordered in most towns. As they are usually made of hair, the available colors are likely limited by the locally predominant hair color, but others can be obtained by applying dye."
+Sources: "["Adventurer's Armory", 'Ultimate Equipment']"
+---
+
+# Wig
+
+### Properties
+
+**Type:** Mundane **Price:** 5 gp **Weight:** 0.5 lbs. **Slot:** Slotless
+
+### Description
+
+False hair comes in many forms, from the severe coif of a judge to the towering confection adorning a noble to the simple curls worn by a housewife whose hair is thinning. Wigs can be found for sale in any major city and can be special-ordered in most towns. As they are usually made of hair, the available colors are likely limited by the locally predominant hair color, but others can be obtained by applying dye.
+
+### Sources
+
+* Adventurer's Armory
+* Ultimate Equipment

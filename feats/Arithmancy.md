@@ -1,0 +1,13 @@
+﻿---
+cssclass: [feats]
+
+---
+# Arithmancy
+
+You are able to unravel the hidden meanings behind words by translating them into numerical equations. You can apply this insight to empower your magical effects.
+
+**Prerequisites:** Int 13, _[[feats/Spell Focus|Spell Focus]]_ (_[[spells/Divination|divination]]_), Spellcraft 3 ranks.
+
+**Benefit:** Immediately before casting a spell, as a swift action, you can attempt to augment a spell's casting using _[[feats/Arithmancy|Arithmancy]]_. To do so, determine the digital _[[spells/Root|root]]_ of the name of the spell you are casting. To find the digital _root_ of a spell name, first assign a numerical value to each letter of the name, per the Letter Values table. Once you have a string of digits, sum them. If the result has more than one digit, sum those digits. Repeat this process until you arrive at a single number, called the digital _root_. Once you've translated the name of the spell into a single digital _root_, attempt a Spellcraft check with a DC equal to 10 + the spell level + the digital _root_. If your check succeeds, the spell is cast at +1 caster level. If your check fails, the spell is cast at -1 caster level. If you do not cast the spell you intended to augment with _arithmancy_, the spell is expended with no effect, though you retain the action you would have spent to cast it. Metamagic effects are not included in a spell's name when determining the spell's digital _root_, but they increase the spell's level as normal when determining the DC of the Spellcraft check. You can use this ability a number of times per day equal to the number of caster levels you possess. For example, Ezren wants to use _Arithmancy_ to cast an augmented _[[spells/Fireball|fireball]]_. First, he translates the spell name into numbers. _Fireball_ translates to 6, 9, 9, 5, 2, 1, 3, 3. Then he calculates the digital _root_. In this case, 6 + 9 + 9 + 5 + 2 + 1 + 3 + 3 = 38, 3 + 8 = 11, and 1 + 1 = 2. Therefore, the digital _root_ of _fireball_ is 2. He then attempts a Spellcraft check against a DC of 15 (10 + 3 [fireball's spell level] + 2 [fireball's digital root]). If his check succeeds, he can cast the _fireball_ this round at +1 caster level. If he fails, he can cast the spell at -1 caster level this round. He may also choose not to cast _fireball_ and perform another action, though he expends the spell.
+
+**Source** Occult Mysteries

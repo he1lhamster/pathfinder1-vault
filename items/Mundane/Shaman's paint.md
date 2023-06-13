@@ -1,0 +1,24 @@
+﻿---
+Title: "Shaman's paint"
+Type: "Mundane"
+Price: "90 gp"
+Weight: "0.5 lbs."
+Slot: "Slotless"
+Description: |
+  "The ground carcasses of goldbelly stinkbugs—insects native to the Mindspin Mountains—give this paint its characteristic yellow hue. When applied as a full-round action, this fine paste makes your head glow as though with an unearthly halo. You gain a +2 alchemical bonus to your caster level for any spells you cast that target one or more of your allies. The quicksilver in shaman's paint is harmful to living creatures. If you wear shaman's paint for more than 1 minute per day, you take 1 point of Wisdom damage, plus 1 point of Wisdom damage for every minute you wear the paint that day after the first."
+Sources: "['Alchemy Manual']"
+---
+
+# Shaman's paint
+
+### Properties
+
+**Type:** Mundane **Price:** 90 gp **Weight:** 0.5 lbs. **Slot:** Slotless
+
+### Description
+
+The ground carcasses of goldbelly stinkbugs—insects native to the Mindspin Mountains—give this paint its characteristic yellow hue. When applied as a full-round action, this fine paste makes your head glow as though with an unearthly halo. You gain a +2 alchemical bonus to your caster level for any spells you cast that target one or more of your allies. The quicksilver in _[[items/Mundane/Shaman's paint|shaman's paint]]_ is harmful to living creatures. If you wear _shaman's paint_ for more than 1 minute per day, you take 1 point of Wisdom damage, plus 1 point of Wisdom damage for every minute you wear the paint that day after the first.
+
+### Sources
+
+* Alchemy Manual

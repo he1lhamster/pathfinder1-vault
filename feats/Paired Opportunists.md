@@ -1,0 +1,13 @@
+﻿---
+cssclass: [feats]
+
+---
+# Paired Opportunists (Combat,Teamwork)
+
+You know how to make an enemy pay for lax defenses.
+
+**Benefit:** Whenever you are adjacent to an ally who also has this feat, you receive a +4 circumstance bonus on attacks of opportunity against creatures that you both threaten. Enemies that provoke attacks of opportunity from your ally also provoke attacks of opportunity from you so long as you threaten them (even if the situation or an ability would normally deny you the attack of opportunity). This does not allow you to take more than one attack of opportunity against a creature for a given action.
+
+**Source** Advanced Player's Guide
+>[!tags_panel]- Tags
+> #feat/teamwork, 

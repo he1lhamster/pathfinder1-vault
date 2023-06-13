@@ -1,0 +1,28 @@
+﻿---
+Title: "Gas cylinder"
+Type: "Mundane"
+Price: "300 gp"
+Weight: "50 lbs."
+Slot: "Slotless"
+Description: |
+  "This large metal canister releases a cloud of toxic gas. It is usually placed on the ground and triggered so that the wind blows the gas toward enemy positions. Normally, multiple gas cylinders are placed in line and triggered together to cover a wider area of the battlefield. First, determine what direction the wind is blowing by rolling 1d4 (1 is north, 2 is east, 3 is south, and 4 is west). When triggered, a gas cylinder releases a cloud of mustard gas (see the sidebar on page 67) in a 15- foot cone. On the following 2 rounds, the cloud extends by an additional 15-foot square away from the canister, forming a 15-foot-wide, 45-foot-long cloud at the end of 3 rounds. The cloud moves with the wind, rolling along the surface of the ground, and disperses after 10 rounds. A strong wind (21+ mph) disperses the cloud in 4 rounds, and a severe wind (31+ mph) disperses it in 1 round."
+Sources: "['Pathfinder #71: Rasputin Must Die!']"
+---
+
+# Gas cylinder
+
+### Properties
+
+**Type:** Mundane **Price:** 300 gp **Weight:** 50 lbs. **Slot:** Slotless
+
+### Description
+
+This large metal canister releases a cloud of _[[items/Weapon Magic Abilities/Toxic|toxic]]_ gas. It is usually placed on the ground and triggered so that the wind blows the gas toward enemy positions. Normally, multiple gas cylinders are placed in line and triggered together to cover a wider area of the battlefield. First, determine what direction the wind is blowing by rolling 1d4 (1 is north, 2 is east, 3 is south, and 4 is west). When triggered, a _[[items/Mundane/Gas cylinder|gas cylinder]]_ releases a cloud of mustard gas (see the sidebar on page 67) in a 15- foot cone. On the following 2 rounds, the cloud extends by an additional 15-foot square away from the canister, forming a 15-foot-wide, 45-foot-long cloud at the end of 3 rounds. The cloud moves _[[spells/With The Wind|with the wind]]_, rolling along the surface of the ground, and disperses after 10 rounds. A strong wind (21+ mph) disperses the cloud in 4 rounds, and a severe wind (31+ mph) disperses it in 1 round.
+
+### Tags
+
+Firearm, Modern Firearm
+
+### Sources
+
+* Pathfinder #71: Rasputin Must Die!

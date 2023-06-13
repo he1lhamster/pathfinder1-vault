@@ -1,0 +1,27 @@
+﻿---
+Title: "Zip-line hook (normal)"
+Type: "Mundane"
+Price: "5 gp"
+Weight: "1 lb."
+Slot: "Slotless"
+Description: |
+  "This blunt iron hook secures to the user's forearm with a sturdy strap. When this item is hooked onto a rope or a similar object that has been fastened at a downward angle, the owner can use it to climb down the rope at a speed of 30 feet as a move action instead of climbing at her normal speed, but the user must take at least one move action doing so each round or she falls. Using a zip-line hook in this way requires a successful DC 5 Climb check for declinations of 90 degrees (straight down), increasing by 5 for every 15 degrees off that baseline in either direction, to a maximum DC of 30 at a 15- or 165-degree declination. It is impossible to utilize a zip-line hook on a rope without a slope, or to ascend an upward-sloping one.
+  Zip-line hooks are designed for use with two hands. A character can use a zip-line hook one-handed, but if she does so, she takes a –8 penalty on her Climb checks. Moving via a zip line is considered rigorous motion for the purpose of casting spells. If a zip line or its rope becomes broken while in use, the character using the zip line falls.
+  A zip-line hook can be improvised from cloth, leather, or any flexible hook-shaped object. Each time the character uses a move action to move with an improvised zip-line hook, the hook takes 1d6 points of damage from friction. A masterwork zip-line hook grants a +2 circumstance bonus on Climb checks to descend a rope."
+Sources: "['Villain Codex']"
+---
+
+# Zip-line hook (normal)
+
+### Properties
+
+**Type:** Mundane **Price:** 5 gp **Weight:** 1 lb. **Slot:** Slotless
+
+### Description
+
+This blunt iron hook secures to the user's forearm with a sturdy strap. When this item is hooked onto a rope or a similar object that has been fastened at a downward angle, the owner can use it to _[[universal monster rules/Climb|climb]]_ down the rope at a speed of 30 feet as a move action instead of climbing at her normal speed, but the user must take at least one move action doing so each round or she falls. Using a zip-line hook in this way requires a successful DC 5 _Climb_ check for declinations of 90 degrees (straight down), increasing by 5 for every 15 degrees off that baseline in either direction, to a maximum DC of 30 at a 15- or 165-degree declination. It is impossible to utilize a zip-line hook on a rope without a slope, or to ascend an upward-sloping one.
+
+Zip-line hooks are designed for use with two hands. A character can use a zip-line hook one-handed, but if she does so, she takes a –8 penalty on her _Climb_ checks. Moving via a zip line is considered rigorous motion for the purpose of casting spells. If a zip line or its rope becomes _[[conditions/Broken|broken]]_ while in use, the character using the zip line falls.
+
+A zip-line hook can be improvised from cloth, leather, or any flexible hook-shaped object. Each time the character uses a move action to move with an improvised zip-line hook, the hook takes 1d6 points of damage from friction. A masterwork zip-line hook grants a +2 circumstance bonus on _Climb_ checks to descend a rope.
+

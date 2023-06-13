@@ -1,0 +1,21 @@
+﻿---
+Title: "Fleshgem (decorative)"
+Type: "Mundane"
+Price: "1 gp"
+Weight: "–"
+Slot: "Slotless"
+Description: |
+  "An oread adventurer discovered these small green gemstones when, after suffering a wound from falling on some jagged stones while exploring a cavern, she noticed pieces of beautiful green crystal growing from her skin. Oread jewelers found that these crystals, dubbed fleshgems, seemed to feed on the elemental energy that permeates an oread's flesh, growing from tiny chips of stone into large, elaborate gemstones. Essentially harmless, implanting fleshgems became a unique racial method of body alteration among oreads, equivalent to tattoos and piercings among other humanoids. Decorative fleshgems cost 1 gp and are merely ornamental. Fleshgem spikes, on the other hand, grow into elaborate crystalline shards that function as armor spikes, but the oread wearing them cannot wear armor over the spikes and even normal clothing requires special holes or seams to allow the spikes to stick out. Implanting a set of fleshgem spikes takes 10 minutes, and the resulting shard takes about a week to grow to full size. Removing a fleshgem takes 1 minute; the person removing the gem must make a successful DC 15 Heal check to avoid dealing 1d4 points of damage to the oread. The fleshgem spikes can be sundered or destroyed as if the growths were a worn object (hardness 1, 5 hp), but unless the embedded root of the fleshgem is removed, the shards grow back 1 week later."
+Sources: "['Advanced Race Guide']"
+---
+
+# Fleshgem (decorative)
+
+### Properties
+
+**Type:** Mundane **Price:** 1 gp **Weight:** – **Slot:** Slotless
+
+### Description
+
+An _[[monsters/Oread|oread]]_ adventurer discovered these small green gemstones when, after suffering a wound from falling on some jagged stones while exploring a cavern, she noticed pieces of beautiful green crystal _[[items/Weapon Magic Abilities/Growing|growing]]_ from her skin. _Oread_ jewelers found that these crystals, dubbed fleshgems, seemed to feed on the elemental energy that permeates an _oread_'s flesh, _growing_ from tiny chips of stone into large, elaborate gemstones. Essentially harmless, implanting fleshgems became a unique racial method of body alteration among oreads, equivalent to tattoos and piercings among other humanoids. Decorative fleshgems cost 1 gp and are merely ornamental. Fleshgem spikes, on the other hand, grow into elaborate crystalline shards that function as armor spikes, but the _oread_ wearing them cannot wear armor over the spikes and even normal clothing requires special holes or seams to allow the spikes to stick out. Implanting a set of fleshgem spikes takes 10 minutes, and the resulting shard takes about a week to grow to full size. Removing a fleshgem takes 1 minute; the person removing the gem must make a successful DC 15 _[[spells/Heal|Heal]]_ check to avoid dealing 1d4 points of damage to the _oread_. The fleshgem spikes can be sundered or destroyed as if the growths were a worn object (hardness 1, 5 hp), but unless the embedded _[[spells/Root|root]]_ of the fleshgem is removed, the shards grow back 1 week later.
+

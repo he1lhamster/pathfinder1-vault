@@ -1,0 +1,37 @@
+﻿---
+Title: "Jar of Haunt Siphoning"
+Type: "Wondrous Item"
+Price: "6250 gp"
+Weight: "1 lb."
+Slot: "Slotless"
+Caster level: "6"
+Aura: "moderate necromancy"
+Description: |
+  "This jar of transparent glass is bound with gold ribbons. As a standard action that requires both hands, the user can untie the ribbon and remove the jar's lid. When the user does so, the ribbon glows as the jar unleashes a burst of positive energy that deals 3d6 points of positive energy damage to all manifested haunts within 30 feet of the user. If this deals enough damage to a haunt to reduce the haunt's hit points to 0, the haunt is neutralized as it dissolves into a violet mist that then drains into the jar. A haunt neutralized by a _jar of haunt siphoning_ takes a –5 penalty on its caster level check to manifest again after its reset time passes. Once used, a _jar of haunt siphoning_ cannot be activated again for 1d4 rounds, but any violet mist within the jar must first be removed. Removing this mist is a full-round action that requires a creature to pour the jar's contents into a nonmagical glass vial worth at least 1 gp. This transforms the vial into a grenadelike splash weapon that functions like a vial of alchemist's fire, except it deals negative energy damage instead of fire damage. Purifying a jar of haunt siphoning in this manner causes the jar to reactivate in 1d4 rounds."
+Crafting cost: "3125 gp"
+Sources: "['Haunted Heroes Handbook']"
+---
+
+# Jar of Haunt Siphoning
+
+### Properties
+
+**Type:** Wondrous Item **Price:** 6250 gp **Weight:** 1 lb. **Slot:** Slotless
+
+##### Magical properties
+
+**Caster level:** 6 **Aura:** moderate necromancy
+
+### Description
+
+This jar of transparent glass is bound with gold ribbons. As a standard action that requires both hands, the user can untie the ribbon and remove the jar's lid. When the user does so, the ribbon glows as the jar unleashes a burst of positive energy that deals 3d6 points of positive energy damage to all manifested haunts within 30 feet of the user. If this deals enough damage to a haunt to reduce the haunt's hit points to 0, the haunt is neutralized as it dissolves into a violet mist that then drains into the jar. A haunt neutralized by a _[[items/Wondrous Item/Jar of Haunt Siphoning|jar of haunt siphoning]]_ takes a –5 penalty on its caster level check to manifest again after its reset time passes. Once used, a _jar of haunt siphoning_ cannot be activated again for 1d4 rounds, but any violet mist within the jar must first be removed. Removing this mist is a full-round action that requires a creature to pour the jar's contents into a nonmagical glass _[[items/Mundane/Vial|vial]]_ worth at least 1 gp. This transforms the _vial_ into a grenadelike splash weapon that functions like a _vial_ of _[[items/Mundane/Alchemist's fire|alchemist's fire]]_, except it deals negative energy damage instead of fire damage. Purifying a _jar of haunt siphoning_ in this manner causes the jar to reactivate in 1d4 rounds.
+
+### Crafting requirements
+
+**Crafting cost:** 3125 gp
+
+_[[feats/Craft Wondrous Item|Craft Wondrous Item]]_, _[[spells/Gentle Repose|gentle repose]]_, mass _[[spells/Inflict Light Wounds|inflict light wounds]]_
+
+### Sources
+
+* Haunted Heroes Handbook

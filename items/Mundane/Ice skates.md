@@ -1,0 +1,24 @@
+﻿---
+Title: "Ice skates"
+Type: "Mundane"
+Price: "1 gp"
+Weight: "2 lbs."
+Slot: "Slotless"
+Description: |
+  "Each of these calf-high boots bears a vertical blade on the bottom, allowing you to travel swiftly on ice. Wearing ice skates allows you to move on ice at normal speed with a successful DC 5 Acrobatics check (including running and charging), but your movement is reduced to half speed on all other terrain. Donning or removing an ice skate is a full-round action. Skating with only one is possible, but the DC of the Acrobatics check rises to 15."
+Sources: "['Ultimate Equipment']"
+---
+
+# Ice skates
+
+### Properties
+
+**Type:** Mundane **Price:** 1 gp **Weight:** 2 lbs. **Slot:** Slotless
+
+### Description
+
+Each of these calf-high boots bears a vertical blade on the bottom, allowing you to travel swiftly on ice. Wearing _[[items/Mundane/Ice skates|ice skates]]_ allows you to move on ice at normal speed with a successful DC 5 Acrobatics check (including running and charging), but your movement is reduced to half speed on all other terrain. Donning or removing an ice skate is a full-round action. Skating with only one is possible, but the DC of the Acrobatics check rises to 15.
+
+### Sources
+
+* Ultimate Equipment

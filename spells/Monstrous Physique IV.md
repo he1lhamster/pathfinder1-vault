@@ -1,0 +1,75 @@
+---
+name: "Monstrous Physique IV"
+spell_rating: "4"
+school: "transmutation"
+subschool: "polymorph"
+descriptor: ""
+cast_time: "1 standard action"
+components: "V, S, M (a piece of the creature whose form you plan to assume)"
+material_components: "{a piece of the creature whose form you plan to assume}"
+range: "personal"
+area: ""
+effect: ""
+targets: "you"
+duration: "1 minute/level (D)"
+saving_throw: ""
+spell_resistance: ""
+short_text: "As monstrous physique III, with more abilities."
+text: |
+  "This spell functions as _monstrous physique_ III_ except it allows you to use more abilities. If the form you assume has any of the following abilities, you gain the listed ability: burrow 60 feet, climb 90 feet, fly 120 feet (good maneuverability), swim 120 feet, blindsense 60 feet, darkvision 90 feet, low-light vision, scent, tremorsense 60 feet, blood frenzy, breath weapon, cold vigor, constrict, ferocity, freeze, grab, horrific appearance, jet, leap attack, mimicry, natural cunning, overwhelming, poison, pounce, rake, rend, roar, sound mimicry, speak with sharks, spikes, trample, trip, and web. If the creature has immunity or resistance to any energy types, you gain resistance 20 to those energy types. If the creature has vulnerability to an energy type, you gain that vulnerability. If the creature has immunity to poison, you gain a +8 bonus on saves against poison."
+source: "Ultimate Magic"
+permanency: ""
+potion: "0"
+race: ""
+deity: ""
+cleric_domain: ""
+druid_domain: ""
+bloodline: ""
+patron: ""
+arcanist: "6"
+wizard: "6"
+sorcerer: "6"
+witch: ""
+magus: "6"
+bard: ""
+skald: ""
+summoner: ""
+unsummoner: ""
+bloodrager: ""
+shaman: ""
+druid: ""
+hunter: ""
+ranger: ""
+cleric: ""
+oracle: ""
+warpriest: ""
+inquisitor: ""
+antipaladin: ""
+paladin: ""
+alchemist: "6"
+investigator: "6"
+psychic: ""
+mesmerist: ""
+occultist: ""
+spiritualist: ""
+medium: ""
+rated_name: <font style='color:blue'>Monstrous Physique IV</font>
+---
+
+# <font style='color:blue'>Monstrous Physique IV</font> 
+**School:** transmutation (polymorph) 
+_arcanist_ 6, _wizard_ 6, _sorcerer_ 6, _magus_ 6, _alchemist_ 6, _investigator_ 6, 
+#### Casting
+**Casting Time:** 1 standard action
+ **Components:** V, S, M (a piece of the creature whose form you plan to assume) {a piece of the creature whose form you plan to assume}
+ #### Effects
+**Targets:** you
+**Range:** personal
+**Duration:** 1 minute/level (D)
+
+ #### Description
+This spell functions as _[[spells/Monstrous Physique III|monstrous physique III]]_ except it allows you to use more abilities. If the form you assume has any of the following abilities, you gain the listed ability: _[[universal monster rules/Burrow|burrow]]_ 60 feet, _[[universal monster rules/Climb|climb]]_ 90 feet, fly 120 feet (good maneuverability), swim 120 feet, _[[universal monster rules/Blindsense|blindsense]]_ 60 feet, _[[spells/Darkvision|darkvision]]_ 90 feet, _[[universal monster rules/Low-Light Vision|low-light vision]]_, _[[universal monster rules/Scent|scent]]_, _[[universal monster rules/Tremorsense|tremorsense]]_ 60 feet, blood frenzy, _[[universal monster rules/Breath Weapon|breath weapon]]_, cold _[[spells/Vigor|vigor]]_, _[[universal monster rules/Constrict|constrict]]_, _[[universal monster rules/Ferocity|ferocity]]_, _[[universal monster rules/Freeze|freeze]]_, _[[universal monster rules/Grab|grab]]_, horrific appearance, _[[universal monster rules/Jet|jet]]_, leap attack, mimicry, natural _[[items/Weapon Magic Abilities/Cunning|cunning]]_, overwhelming, poison, _[[universal monster rules/Pounce|pounce]]_, _[[universal monster rules/Rake|rake]]_, _[[universal monster rules/Rend|rend]]_, roar, _[[universal monster rules/Sound Mimicry|sound mimicry]]_, speak with sharks, spikes, _[[universal monster rules/Trample|trample]]_, _[[universal monster rules/Trip|trip]]_, and web. If the creature has _[[universal monster rules/Immunity|immunity]]_ or _[[universal monster rules/Resistance|resistance]]_ to any energy types, you gain _resistance_ 20 to those energy types. If the creature has _[[curses/Vulnerability|vulnerability]]_ to an energy type, you gain that _vulnerability_. If the creature has _immunity_ to poison, you gain a +8 bonus on saves against poison.
+
+ #### Other
+**Source:** Ultimate Magic
+**Rating:** 4

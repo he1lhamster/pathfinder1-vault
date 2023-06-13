@@ -1,0 +1,21 @@
+﻿---
+Title: "Weapon blanch (cold iron)"
+Type: "Mundane"
+Price: "20 gp"
+Weight: "0.5 lbs."
+Slot: "Slotless"
+Description: |
+  "These silver, alchemical powders have a gritty consistency, appearing at first glance to be simple metal shavings. When poured on a weapon and placed over a hot flame for a full round, however, they melt and form a temporary coating on the weapon. The blanching gives the weapon the ability to bypass one kind of material-based damage reduction, such as adamantine, cold iron, or silver. The blanching remains effective until you make a successful attack with the weapon. Each dose of blanching can coat one weapon or up to 10 pieces of ammunition. Only one kind of weapon blanch can be on a weapon at one time, though a weapon made of one special material (such as adamantine) can have a different material blanch (such as silver), and counts as both materials for the first successful hit."
+Sources: "["Advanced Player's Guide", 'Ultimate Equipment']"
+---
+
+# Weapon blanch (cold iron)
+
+### Properties
+
+**Type:** Mundane **Price:** 20 gp **Weight:** 0.5 lbs. **Slot:** Slotless
+
+### Description
+
+These silver, alchemical powders have a gritty consistency, appearing at first glance to be simple metal shavings. When poured on a weapon and placed over a hot flame for a full round, however, they melt and form a temporary coating on the weapon. The blanching gives the weapon the ability to bypass one kind of material-based _[[universal monster rules/Damage Reduction|damage reduction]]_, such as adamantine, cold iron, or silver. The blanching remains effective until you make a successful attack with the weapon. Each dose of blanching can coat one weapon or up to 10 pieces of ammunition. Only one kind of weapon blanch can be on a weapon at one time, though a weapon made of one special material (such as adamantine) can have a different material blanch (such as silver), and counts as both materials for the first successful hit.
+

@@ -1,0 +1,30 @@
+﻿---
+Title: "Camouflage netting"
+Type: "Mundane"
+Price: "20 gp"
+Weight: "5 lbs."
+Slot: "Slotless"
+Description: |
+  "This loose mesh of twine and varicolored cloth is used to disguise the presence of creatures or large objects. Camouflage netting must be manufactured to provide camouflage in a single type of terrain, such as snow, sand, forest, grass, swamp, urban, or water. When you hide under the netting in the appropriate terrain, you gain a +4 circumstance bonus on Stealth checks as long as you remain immobile and prone. Covering up with camouflage netting is a full-round action requiring a DC 10 Survival check (failure means you do not cover yourself correctly with the netting and do not gain its bonus on Stealth checks). You have the entangled condition when using the netting, except your Dexterity penalty does not affect your initiative or Stealth checks. Taking off camouflage netting is a move action, or a swift action if combined with a move action to stand up from a prone position.
+  You may spend 1 minute covering an object with camouflage netting. Make a Survival check with a –10 penalty and use the total as the Stealth check result for the object. Creatures who fail a Perception check against this Stealth DC do not recognize what the object is and usually treat it as a natural part of the terrain. For example, you can conceal a wagon as a rock or patch of brush. Covering a Large object requires two nets. Covering a Huge or Gargantuan object requires five nets and takes 10 minutes of work, and the Survival check penalty is –20 instead of –10. Camouflaging a Colossal object depends on its shape but generally requires at least 10 camouflage nets and takes 1 hour of work, and the Survival check penalty is –30 instead of –10.
+  A creature with the scent ability ignores the effect of camouflage netting and makes checks against your actual Stealth roll when in scent range. Any creature within 10 feet of a Large or larger object hidden by camouflage netting automatically recognizes it as an object covered in camouflage."
+Sources: "['Ultimate Equipment']"
+---
+
+# Camouflage netting
+
+### Properties
+
+**Type:** Mundane **Price:** 20 gp **Weight:** 5 lbs. **Slot:** Slotless
+
+### Description
+
+This loose mesh of twine and varicolored cloth is used to disguise the presence of creatures or large objects. _[[items/Mundane/Camouflage netting|Camouflage netting]]_ must be manufactured to provide camouflage in a single type of terrain, such as snow, sand, forest, grass, swamp, urban, or water. When you hide under the netting in the appropriate terrain, you gain a +4 circumstance bonus on Stealth checks as long as you remain immobile and _[[conditions/Prone|prone]]_. Covering up with _camouflage netting_ is a full-round action requiring a DC 10 Survival check (failure means you do not cover yourself correctly with the netting and do not gain its bonus on Stealth checks). You have the _[[conditions/Entangled|entangled]]_ condition when using the netting, except your Dexterity penalty does not affect your initiative or Stealth checks. Taking off _camouflage netting_ is a move action, or a swift action if combined with a move action to stand up from a _prone_ position.
+
+You may spend 1 minute covering an object with _camouflage netting_. Make a Survival check with a –10 penalty and use the total as the Stealth check result for the object. Creatures who fail a Perception check against this Stealth DC do not recognize what the object is and usually treat it as a natural part of the terrain. For example, you can conceal a wagon as a rock or patch of brush. Covering a Large object requires two nets. Covering a Huge or Gargantuan object requires five nets and takes 10 minutes of work, and the Survival check penalty is –20 instead of –10. Camouflaging a Colossal object depends on its shape but generally requires at least 10 camouflage nets and takes 1 hour of work, and the Survival check penalty is –30 instead of –10.
+
+A creature with the _[[universal monster rules/Scent|scent]]_ ability ignores the effect of _camouflage netting_ and makes checks against your actual Stealth roll when in _scent_ range. Any creature within 10 feet of a Large or larger object hidden by _camouflage netting_ automatically recognizes it as an object covered in camouflage.
+
+### Sources
+
+* Ultimate Equipment

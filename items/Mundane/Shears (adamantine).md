@@ -1,0 +1,24 @@
+﻿---
+Title: "Shears (adamantine)"
+Type: "Mundane"
+Price: "3003 gp"
+Weight: "8 lbs."
+Slot: "Slotless"
+Description: |
+  "Shears are used to quickly cut through items by snipping them between two sharp blades fitted with a spring to allow the jaws to open again after closing. Small shears can be used in one hand and are often used to trim hair, cut cloth, or perform other delicate cutting work. Lopping shears are 3 feet long and must be used in two hands; they are commonly used by farmers or gardeners to cut hedges and branches.
+  Adamantine shears are lopping shears with sharpened adamantine blades that can snip through nearly any material. You can use adamantine shears to cut through bars, chains, grates, or similar items, dealing damage to such objects as though using a scimitar and bypassing hardness less than 20. On any item the adamantine shears can fit around (such as a chain or iron bar, but not an iron door), using adamantine shears provides a +10 bonus on your Strength check to break or burst it."
+Sources: "["Adventurer's Armory 2"]"
+---
+
+# Shears (adamantine)
+
+### Properties
+
+**Type:** Mundane **Price:** 3003 gp **Weight:** 8 lbs. **Slot:** Slotless
+
+### Description
+
+Shears are used to quickly cut through items by snipping them between two sharp blades fitted with a spring to allow the jaws to open again after closing. Small shears can be used in one hand and are often used to trim hair, cut cloth, or perform other delicate cutting work. Lopping shears are 3 feet long and must be used in two hands; they are commonly used by farmers or gardeners to cut hedges and branches.
+
+Adamantine shears are lopping shears with sharpened adamantine blades that can snip through nearly any material. You can use adamantine shears to cut through bars, chains, grates, or similar items, dealing damage to such objects as though using a _[[items/Weapon/Scimitar|scimitar]]_ and bypassing hardness less than 20. On any item the adamantine shears can fit around (such as a chain or iron bar, but not an iron door), using adamantine shears provides a +10 bonus on your Strength check to break or burst it.
+

@@ -1,0 +1,44 @@
+﻿---
+Title: "Otherworldly Kimono"
+Type: "Wondrous Item"
+Price: "67000 gp"
+Weight: "1 lb."
+Slot: "Body"
+Caster level: "15"
+Aura: "strong conjuration"
+Description: |
+  "Embroidered images of cherry blossoms and cranes in flight adorn this blue silk kimono. The wearer can move and reposition these images on the kimono at will. The kimono grants its wearer a +4 resistance bonus on all saving throws and a +4 bonus on all caster level checks.
+  Once per day, the wearer can capture a single creature within 60 feet within the kimono (no save), shunting the victim into an extradimensional space similar to that created by a maze spell. Inside this otherworldly prison, the maze appears as an endless cherry orchard filled with "walls" of windblown cherry blossoms and cranes flying overhead. Each round on its turn, the victim inside the kimono may attempt a DC 20 Intelligence check to escape the kimono as a full-round action. If the victim doesn't escape, it is released after 10 minutes, returning to where it had been before the kimono drew it in. If this location is occupied by another creature or a solid object, the subject appears in the nearest open space.
+  Whenever a creature is drawn inside the kimono, the victim's image temporarily manifests as another embroidered design among the kimono's other images. While a victim is trapped inside, the kimono's bonuses on saving throws and caster level checks are increased by 2 (to +6). The kimono's increased bonuses return to normal when the victim is freed or released."
+Crafting cost: "33500 gp"
+Sources: "['Pathfinder #54: The Empty Throne', 'Ultimate Equipment']"
+---
+
+# Otherworldly Kimono
+
+### Properties
+
+**Type:** Wondrous Item **Price:** 67000 gp **Weight:** 1 lb. **Slot:** Body
+
+##### Magical properties
+
+**Caster level:** 15 **Aura:** strong conjuration
+
+### Description
+
+Embroidered images of cherry blossoms and cranes in _[[universal monster rules/Flight|flight]]_ adorn this blue _[[items/Mundane/Silk kimono|silk kimono]]_. The wearer can move and reposition these images on the kimono at will. The kimono grants its wearer a +4 _[[universal monster rules/Resistance|resistance]]_ bonus on all saving throws and a +4 bonus on all caster level checks.
+
+Once per day, the wearer can capture a single creature within 60 feet within the kimono (no save), shunting the victim into an extradimensional space similar to that created by a _[[spells/Maze|maze]]_ spell. Inside this otherworldly prison, the _maze_ appears as an endless cherry orchard filled with "walls" of windblown cherry blossoms and cranes flying overhead. Each round on its turn, the victim inside the kimono may attempt a DC 20 Intelligence check to escape the kimono as a full-round action. If the victim doesn't escape, it is released after 10 minutes, returning to where it had been before the kimono drew it in. If this location is occupied by another creature or a solid object, the subject appears in the nearest open space.
+
+Whenever a creature is drawn inside the kimono, the victim's image temporarily manifests as another embroidered design among the kimono's other images. While a victim is trapped inside, the kimono's bonuses on saving throws and caster level checks are increased by 2 (to +6). The kimono's increased bonuses return to normal when the victim is freed or released.
+
+### Crafting requirements
+
+**Crafting cost:** 33500 gp
+
+_[[feats/Craft Wondrous Item|Craft Wondrous Item]]_, _[[feats/Heighten Spell|Heighten Spell]]_, _maze_, _resistance_
+
+### Sources
+
+* Pathfinder #54: The Empty Throne
+* Ultimate Equipment

@@ -1,0 +1,161 @@
+Shrinking
+Agile
+Allying
+Answering
+Bane
+Benevolent
+Bewildering
+Blood-Hunting
+Bloodsong
+Brawling
+Breaking
+Called
+Catalytic
+Compassionate
+Conductive
+Confounding
+Corrosive
+Countering
+Courageous
+Cruel
+Cunning
+Dazzling Radiance
+Deadly
+Debilitating
+Deceptive
+Defending
+Disjoining
+Dispelling
+Distracting
+Drowscourge
+Dueling (PSFG)
+Fate-Stealing
+Fervent
+Flamboyant
+Flaming
+Fortuitous
+Frost
+Furious
+Ghost Touch
+Grayflame
+Grounding
+Growing
+Guardian
+Guided
+Heartseeker
+Huntsman
+Injecting
+Inspired
+Jurist
+Keen
+Ki Focus
+Kinslayer
+Leveraging
+Limning
+Menacing
+Merciful
+Mighty Cleaving
+Mimetic
+Miserable
+Mythic Bane
+Neutralizing
+Ominous
+Patriotic
+Pitfall
+Planar
+Quenching
+Rusting
+Sacred
+Sapping
+Seaborne
+Shock
+Skewering
+Slithering
+Smashing
+Spell Storing
+Spirit-Hunting
+Sticky
+Summon Bane
+Thawing
+Throwing
+Thundering
+Training
+Unaligned
+Underwater
+Valiant
+Vampiric
+Vicious
+Virulent
+Prehensile
+Concealed, Lesser
+Impervious
+Exclusionary
+Glamered
+Resizing
+Sacrosanct
+Sneaky
+Liberating (WMH)
+Concealed
+Advancing
+Anarchic
+Anchoring
+Axiomatic
+Burning
+Corrosive Burst
+Culling
+Defiant
+Dispelling Burst
+Disruption
+Distracting, Greater
+Flaming Burst
+Furyborn
+Fury-Born
+Glorious
+Harvesting
+Heretical
+Holy
+Icy Burst
+Igniting
+Impact
+Invigorating
+Ki Intensifying
+Legbreaker
+Liberating (UI)
+Lifesurge
+Negating
+Obliviating
+Peaceful
+Phase Locking
+Planestriking
+Potent
+Quaking
+Runeforged
+Sharding
+Shattering
+Shocking Burst
+Silencing
+Stalking
+Toxic
+Treasonous
+Truthful
+Unholy
+Unseen
+Vampiric, Greater
+Wounding
+Transformative
+Dueling
+Transformative, Greater
+Exhausting
+Flamboyant, Greater
+Gory
+Nullifying
+Redeemed
+Repositioning
+Speed
+Spellstealing
+Umbral
+Brilliant Energy
+Dancing
+Flying
+Spell Siphon
+Vorpal

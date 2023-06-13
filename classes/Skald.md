@@ -1,0 +1,24 @@
+# Skald
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save |                                        Special                                        | Spells Per Day |     |     |     |     |     |
+|:-----:|:-----------------:|:---------:|:--------:|:---------:|:-------------------------------------------------------------------------------------:|:--------------:|:---:|:---:|:---:|:---:|:---:|
+|       |                   |           |          |           |                                                                                       |       1st      | 2nd | 3rd | 4th | 5th | 6th |
+|  1st  |         +0        |     +2    |    +0    |     +2    | Bardic knowledge, cantrips, inspired rage +1 (+2 Str/Con), raging song, scribe scroll |        1       |  -  |  -  |  -  |  -  |  -  |
+|  2nd  |         +1        |     +3    |    +0    |     +3    |                           Versatile performance, well-versed                          |        2       |  -  |  -  |  -  |  -  |  -  |
+|  3rd  |         +2        |     +3    |    +1    |     +3    |                              Rage power, song of marching                             |        3       |  -  |  -  |  -  |  -  |  -  |
+|  4th  |         +3        |     +4    |    +1    |     +4    |                            Inspired rage +2, uncanny dodge                            |        3       |  1  |  -  |  -  |  -  |  -  |
+|  5th  |         +3        |     +4    |    +1    |     +4    |                                  Spell kenning 1/day                                  |        4       |  2  |  -  |  -  |  -  |  -  |
+|  6th  |         +4        |     +5    |    +2    |     +5    |                              Rage power, song of strength                             |        4       |  3  |  -  |  -  |  -  |  -  |
+|  7th  |         +5        |     +5    |    +2    |     +5    |                        Lore master 1/day, versatile performance                       |        4       |  3  |  1  |  -  |  -  |  -  |
+|  8th  |       +6/+1       |     +6    |    +2    |     +6    |                 Improved uncanny dodge, inspired rage +3 (+4 Str/Con)                 |        4       |  4  |  2  |  -  |  -  |  -  |
+|  9th  |       +6/+1       |     +6    |    +3    |     +6    |                                   Rage power, DR 1/-                                  |        5       |  4  |  3  |  -  |  -  |  -  |
+|  10th |       +7/+2       |     +7    |    +3    |     +7    |                                     Dirge of doom                                     |        5       |  4  |  3  |  1  |  -  |  -  |
+|  11th |       +8/+3       |     +7    |    +3    |     +7    |                                  Spell kenning 2/day                                  |        5       |  4  |  4  |  2  |  -  |  -  |
+|  12th |       +9/+4       |     +8    |    +4    |     +8    |                  Inspired rage +4, rage power, versatile performance                  |        5       |  5  |  4  |  3  |  -  |  -  |
+|  13th |       +9/+4       |     +8    |    +4    |     +8    |                                   Lore master 2/day                                   |        5       |  5  |  4  |  3  |  1  |  -  |
+|  14th |       +10/+5      |     +9    |    +4    |     +9    |                               DR 2/-, song of the fallen                              |        5       |  5  |  4  |  4  |  2  |  -  |
+|  15th |     +11/+6/+1     |     +9    |    +5    |     +9    |                                       Rage power                                      |        5       |  5  |  5  |  4  |  3  |  -  |
+|  16th |     +12/+7/+2     |    +10    |    +5    |    +10    |                             Inspired rage +5 (+6 Str/Con)                             |        5       |  5  |  5  |  4  |  3  |  1  |
+|  17th |     +12/+7/+2     |    +10    |    +5    |    +10    |                       Spell kenning 3/day, versatile performance                      |        5       |  5  |  5  |  4  |  4  |  2  |
+|  18th |     +13/+8/+3     |    +11    |    +6    |    +11    |                                       Rage power                                      |        5       |  5  |  5  |  5  |  4  |  3  |
+|  19th |     +14/+9/+4     |    +11    |    +6    |    +11    |                               DR 3/-, lore master 3/day                               |        5       |  5  |  5  |  5  |  5  |  4  |
+|  20th |     +15/+10/+5    |    +12    |    +6    |    +12    |                             Inspired rage +6, master skald                            |        5       |  5  |  5  |  5  |  5  |  5  |

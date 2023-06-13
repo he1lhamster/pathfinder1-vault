@@ -1,0 +1,37 @@
+﻿---
+Title: "Hand of Abendego"
+Type: "Wondrous Item"
+Price: "20258 gp"
+Weight: "2 lbs."
+Slot: "Neck"
+Caster level: "9"
+Aura: "moderate evocation"
+Description: |
+  "This nearly perfect pearl replica of a hand is attached to a gold chain and can be worn as an amulet. Once per day, the wearer can animate the hand as an immediate action. The hand attempts to grapple an adjacent foe of Medium size or smaller, using the wearer's CMB. If it succeeds, the hand deals 1d4 non-lethal damage every round it maintains a grapple. If the grapple attempt fails or the victim escapes the grapple, the hand ceases its activity. If any creature within reach of the amulet (including the wearer) attempts to steal anything, the hand activates and attempts to choke the creature. If the amulet is not currently worn, it uses the victim's own CMB and Strength to determine the attack bonus and damage."
+Crafting cost: "10129 gp"
+Sources: "['Pathfinder #27: What Lies in Dust']"
+---
+
+# Hand of Abendego
+
+### Properties
+
+**Type:** Wondrous Item **Price:** 20258 gp **Weight:** 2 lbs. **Slot:** Neck
+
+##### Magical properties
+
+**Caster level:** 9 **Aura:** moderate evocation
+
+### Description
+
+This nearly perfect pearl replica of a hand is attached to a gold chain and can be worn as an amulet. Once per day, the wearer can animate the hand as an immediate action. The hand attempts to grapple an adjacent foe of _[[classes/Medium|Medium]]_ size or smaller, using the wearer's CMB. If it succeeds, the hand deals 1d4 non-lethal damage every round it maintains a grapple. If the grapple attempt fails or the victim escapes the grapple, the hand ceases its activity. If any creature within reach of the amulet (including the wearer) attempts to steal anything, the hand activates and attempts to choke the creature. If the amulet is not currently worn, it uses the victim's own CMB and Strength to determine the attack bonus and damage.
+
+### Crafting requirements
+
+**Crafting cost:** 10129 gp
+
+_[[feats/Craft Wondrous Item|Craft Wondrous Item]]_, _[[spells/Interposing Hand|interposing hand]]_
+
+### Sources
+
+* Pathfinder #27: What Lies in Dust

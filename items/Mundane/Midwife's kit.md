@@ -1,0 +1,24 @@
+﻿---
+Title: "Midwife's kit"
+Type: "Mundane"
+Price: "10 gp"
+Weight: "2 lbs."
+Slot: "Slotless"
+Description: |
+  "This kit is used by midwives to care for pregnant women and to deliver babies. Each kit contains herbs to treat common conditions during pregnancy, salves for aches and distended skin, swaddling cloths, a small but sharp knife for cutting an umbilical cord, powder for cleaning the newborn, bandages, a needle, and thread. Using the kit gives you a +4 circumstance bonus on Heal checks when dealing with humanoid pregnancy or birth. You may use it for other kinds pregnant or birthing creatures (such as animals or monstrous humanoids), but it only gives a +2 bonus on such Heal checks. A midwife's kit is exhausted after 10 uses."
+Sources: "['Ultimate Equipment']"
+---
+
+# Midwife's kit
+
+### Properties
+
+**Type:** Mundane **Price:** 10 gp **Weight:** 2 lbs. **Slot:** Slotless
+
+### Description
+
+This kit is used by midwives to care for pregnant women and to deliver babies. Each kit contains herbs to treat common conditions during pregnancy, salves for aches and distended skin, swaddling cloths, a small but sharp knife for cutting an umbilical cord, _[[items/Mundane/Powder|powder]]_ for cleaning the newborn, bandages, a needle, and thread. Using the kit gives you a +4 circumstance bonus on _[[spells/Heal|Heal]]_ checks when dealing with humanoid pregnancy or birth. You may use it for other kinds pregnant or birthing creatures (such as animals or monstrous humanoids), but it only gives a +2 bonus on such _Heal_ checks. A _[[items/Mundane/Midwife's kit|midwife's kit]]_ is _[[conditions/Exhausted|exhausted]]_ after 10 uses.
+
+### Sources
+
+* Ultimate Equipment

@@ -1,0 +1,21 @@
+﻿---
+Title: "Bolt, alchemical fire"
+Type: "Ammunition"
+Price: "50 gp"
+Weight: "–"
+Slot: "Slotless"
+Description: |
+  "These carefully crafted wooden crossbow bolts have a hollow core filled with alchemist's fire. On a hit, an alchemical fire bolt deals 1d4 points of fire damage in addition to its normal damage. Alchemical fire bolts do not cause splash damage, and they do not set targets on fire unless a target is particularly flammable."
+Sources: "["Adventurer's Armory 2"]"
+---
+
+# Bolt, alchemical fire
+
+### Properties
+
+**Type:** Ammunition **Price:** 50 gp **Weight:** – **Slot:** Slotless
+
+### Description
+
+These carefully crafted wooden crossbow bolts have a hollow core filled with _[[items/Mundane/Alchemist's fire|alchemist's fire]]_. On a hit, an alchemical fire bolt deals 1d4 points of fire damage in addition to its normal damage. Alchemical fire bolts do not cause splash damage, and they do not set targets on fire unless a target is particularly flammable.
+

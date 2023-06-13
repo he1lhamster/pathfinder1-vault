@@ -1,0 +1,37 @@
+﻿---
+Title: "Restless Lockpicks"
+Type: "Wondrous Item"
+Price: "8000 gp"
+Weight: "1 lb."
+Slot: "Slotless"
+Caster level: "3"
+Aura: "faint transmutation"
+Description: |
+  "This set of mithral masterwork thieves' tools springs to life in the hands of a skilled user. If the user attempts to use the tools to disarm a trap or other device, he may spend a standard action beginning the disarm attempt, after which the tools continue on their own without being held. Thereafter, the bearer may perform other actions or even move away while the tools work. The tools make a Disable Device using the bearer's skill bonus plus the +2 for being masterwork thieves' tools, taking the normal amount of time to disable the device. When the skill check is completed, the tools remain in place until removed from the device. The tools can animate for up to 10 rounds per day. They can take 10 but cannot take 20. If there aren't enough rounds left in the tools to finish a particular check, the bearer can continue where the animated tools left off as long as she is in the square with the tools when the animation duration runs out."
+Crafting cost: "4000 gp"
+Sources: "['Ultimate Equipment']"
+---
+
+# Restless Lockpicks
+
+### Properties
+
+**Type:** Wondrous Item **Price:** 8000 gp **Weight:** 1 lb. **Slot:** Slotless
+
+##### Magical properties
+
+**Caster level:** 3 **Aura:** faint transmutation
+
+### Description
+
+This set of mithral masterwork thieves' tools springs to life in the hands of a skilled user. If the user attempts to use the tools to disarm a trap or other device, he may spend a standard action beginning the disarm attempt, after which the tools continue on their own without being held. Thereafter, the bearer may perform other actions or even move away while the tools work. The tools make a Disable Device using the bearer's skill bonus plus the +2 for being masterwork thieves' tools, taking the normal amount of time to disable the device. When the skill check is completed, the tools remain in place until removed from the device. The tools can animate for up to 10 rounds per day. They can take 10 but cannot take 20. If there aren't enough rounds left in the tools to finish a particular check, the bearer can continue where the _[[items/Armor Magic Abilities/Animated|animated]]_ tools left off as long as she is in the square with the tools when the animation duration runs out.
+
+### Crafting requirements
+
+**Crafting cost:** 4000 gp
+
+_[[feats/Craft Wondrous Item|Craft Wondrous Item]]_, _[[spells/Knock|knock]]_, _[[spells/Mage Hand|mage hand]]_
+
+### Sources
+
+* Ultimate Equipment

@@ -1,0 +1,21 @@
+﻿---
+Title: "Arrow (splintercloud)"
+Type: "Ammunition"
+Price: "25 gp"
+Weight: "–"
+Slot: "Slotless"
+Description: |
+  "The shaft of this arrow is formed from numerous small bone fragments that have been painstakingly glued together. On a successful hit, a splintercloud arrow deals normal damage as it tears itself apart, creating a burst of razorsharp bone shards centered on the target. These shards deal 1d3 points of piercing damage to the target and any creatures adjacent to the target (Reflex DC 18 negates)."
+Sources: "['Alchemy Manual', 'Elves of Golarion']"
+---
+
+# Arrow (splintercloud)
+
+### Properties
+
+**Type:** Ammunition **Price:** 25 gp **Weight:** – **Slot:** Slotless
+
+### Description
+
+The shaft of this arrow is formed from numerous small bone fragments that have been painstakingly glued together. On a successful hit, a splintercloud arrow deals normal damage as it tears itself apart, creating a burst of razorsharp bone shards centered on the target. These shards deal 1d3 points of piercing damage to the target and any creatures adjacent to the target (Reflex DC 18 negates).
+

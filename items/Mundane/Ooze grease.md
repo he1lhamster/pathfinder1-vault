@@ -1,0 +1,24 @@
+﻿---
+Title: "Ooze grease"
+Type: "Mundane"
+Price: "50 gp"
+Weight: "1 lb."
+Slot: "Slotless"
+Description: |
+  "This alchemical concoction can be spread over a Medium or Small creature's body as a full-round action. It provides a +5 alchemical bonus on Escape Artist checks, grapple checks to avoid a grapple, and Reflex saves to avoid an ooze's improved grab or engulf abilities, but gives a –5 penalty to disarm checks, grapple checks to start or maintain a grapple or pin, and other checks that may be hindered by a loose grip (such as Climb). One application lasts for up to 1 hour and can be removed with soap and water."
+Sources: "['Dungeon Denizens Revisited']"
+---
+
+# Ooze grease
+
+### Properties
+
+**Type:** Mundane **Price:** 50 gp **Weight:** 1 lb. **Slot:** Slotless
+
+### Description
+
+This alchemical concoction can be spread over a _[[classes/Medium|Medium]]_ or Small creature's body as a full-round action. It provides a +5 alchemical bonus on Escape Artist checks, grapple checks to avoid a grapple, and Reflex saves to avoid an ooze's improved _[[universal monster rules/Grab|grab]]_ or _[[universal monster rules/Engulf|engulf]]_ abilities, but gives a –5 penalty to disarm checks, grapple checks to start or maintain a grapple or pin, and other checks that may be hindered by a loose grip (such as _[[universal monster rules/Climb|Climb]]_). One application lasts for up to 1 hour and can be removed with _[[items/Mundane/Soap|soap]]_ and water.
+
+### Sources
+
+* Dungeon Denizens Revisited

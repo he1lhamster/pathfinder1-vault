@@ -1,0 +1,109 @@
+Advancing
+Balanced
+Benevolent
+Billowing
+Bitter
+Bolstering
+Calming
+Champion
+Cocooning
+Crusading
+Dastard
+Deathless
+Defiant
+Evolving
+Fortification (light)
+Grinding
+Impervious
+Mirrored
+Poisoning
+Resonating
+Spell Storing
+Spellsink
+Stanching
+Terrain-striding
+Trapwarding
+Vouchsafing
+Warding
+Withstanding
+Buoyant (light armor)
+Cushioned
+Buoyant (medium/heavy armor)
+Fitting
+Poison-Resistant
+Glamered
+Mental Focus
+Aquadynamic
+Jousting
+Shadow
+Slick
+Adamant
+Bloodthirsty
+Frosted
+Ghost Spike
+Jarring
+Mind Buttressing
+Phantasmal
+Rampaging
+Shadow Blending
+Spell Dodging
+Spell Resistance (13)
+Steaming
+Volcanic
+Burdenless
+Expeditious
+Amorphous
+Restful
+Cloudburst
+Comfort
+Corsair
+Creeping
+Deceiving
+Malevolent
+Rallying
+Spirit-bonded
+Locksmith
+Adhesive
+Spiteful
+Hosteling
+Radiant
+Trackless
+Arrow-collecting
+Brawling
+Cotraveling
+Fortification (moderate)
+Ghost Touch
+Invulnerability
+Sensing
+Spell Resistance (15)
+Titanic
+Wild
+Phase Lurching
+Delving
+Putrid
+Harmonizing
+Improved Aquadynamic
+Radiant Flight
+Shadow, Improved
+Slick, Improved
+Venom-eating
+Denying
+Spell Resistance (17)
+Energy Resistance
+Martyring
+Dread Wing
+Fortification (heavy)
+Spell Resistance (19)
+Unbowed
+Righteous
+Unbound
+Unrighteous
+Vigilant
+Determination
+Greater Aquadynamic
+Shadow, Greater
+Slick, Greater
+Energy Resistance, Improved
+Etherealness
+Undead Controlling
+Energy Resistance, Greater

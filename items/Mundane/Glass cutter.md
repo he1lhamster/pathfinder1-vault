@@ -1,0 +1,24 @@
+﻿---
+Title: "Glass cutter"
+Type: "Mundane"
+Price: "5 gp"
+Weight: "–"
+Slot: "Slotless"
+Description: |
+  "This small metal rod has a tiny sharp wheel on one end and a bulb on the other. You score the glass with the wheel and tap it with the bulb to break it. If you succeed at a DC 15 Sleight of Hand check, you can break the glass very quietly (DC 15 Perception check to hear). Most thieves use glue paper with a glass cutter to reduce noise and capture glass fragments."
+Sources: "['Ultimate Equipment']"
+---
+
+# Glass cutter
+
+### Properties
+
+**Type:** Mundane **Price:** 5 gp **Weight:** – **Slot:** Slotless
+
+### Description
+
+This small metal rod has a tiny sharp wheel on one end and a bulb on the other. You score the glass with the wheel and tap it with the bulb to break it. If you succeed at a DC 15 Sleight of Hand check, you can break the glass very quietly (DC 15 Perception check to hear). Most thieves use _[[items/Mundane/Glue paper|glue paper]]_ with a _[[items/Mundane/Glass cutter|glass cutter]]_ to reduce noise and capture glass fragments.
+
+### Sources
+
+* Ultimate Equipment

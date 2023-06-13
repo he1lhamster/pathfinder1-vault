@@ -1,0 +1,51 @@
+Arrow Catching
+Assiduous
+Bashing
+Blinding
+Clangorous
+Defiant
+Folding
+Fortification (light)
+Grinding
+Guarding
+Heraldric
+Impervious
+Mirrored
+Ramming
+Rebounding
+Singing
+Spellrending
+Spellsink
+Buoyant (shield)
+Fitting
+Poison-Resistant
+Animated
+Arrow Deflection
+Frosted
+Guarding, Greater
+Jarring
+Jawbreaker
+Mastering
+Merging
+Spell Resistance (13)
+Weeping
+Rallying
+Wyrmsbreath
+Hosteling
+Radiant
+Deflecting
+Fortification (moderate)
+Ghost Touch
+Spell Resistance (15)
+Wild
+Bastion
+Spell Resistance (17)
+Channeling
+Energy Resistance
+Fortification (heavy)
+Reflecting
+Spell Resistance (19)
+Determination
+Energy Resistance, Improved
+Undead Controlling
+Energy Resistance, Greater

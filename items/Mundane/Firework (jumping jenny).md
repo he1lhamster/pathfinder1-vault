@@ -1,0 +1,21 @@
+﻿---
+Title: "Firework (jumping jenny)"
+Type: "Mundane"
+Price: "15 gp"
+Weight: "–"
+Slot: "Slotless"
+Description: |
+  "This small, round paper packet is filled with a sparkling propellant and pierced with several irregular holes, which causes it to dance and spin as the firework burns. One round after you light a jumping jenny, it fills its square with sparks, dealing 1 point of fire damage to creatures in that square and dazzling them for 1d2 rounds (Reflex DC 12 negates). Each round for 1d4 rounds after detonation, the jumping jenny moves into a random adjacent square."
+Sources: "['Alchemy Manual']"
+---
+
+# Firework (jumping jenny)
+
+### Properties
+
+**Type:** Mundane **Price:** 15 gp **Weight:** – **Slot:** Slotless
+
+### Description
+
+This small, round paper packet is filled with a sparkling propellant and pierced with several irregular holes, which causes it to dance and spin as the firework burns. One round after you light a jumping jenny, it fills its square with sparks, dealing 1 point of fire damage to creatures in that square and dazzling them for 1d2 rounds (Reflex DC 12 negates). Each round for 1d4 rounds after detonation, the jumping jenny moves into a random adjacent square.
+

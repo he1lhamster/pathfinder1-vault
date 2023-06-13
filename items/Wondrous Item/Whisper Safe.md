@@ -1,0 +1,37 @@
+﻿---
+Title: "Whisper Safe"
+Type: "Wondrous Item"
+Price: "8000 gp"
+Weight: "0.5 lbs."
+Slot: "Slotless"
+Caster level: "4"
+Aura: "faint conjuration"
+Description: |
+  "A mirrored mask emblem adorns this black-lacquered jewelry box. When a user speaks a fact into the open box and closes it (a full-round action that provokes attacks of opportunities), the _whisper safe_ attunes to him. While holding the attuned box, he can spend an immediate action at will to learn how many people know the fact. Furthermore, he can concentrate on the box for 1 minute as if he were concentrating on a spell to learn the general details of each of those people, including alignment, gender, race, character class, and the name by which each person is most commonly known. However, if a person has taken any effort to obscure any of these details from the public eye, the box omits that individual detail or details. Similarly, the box reveals no details about a person who knows the fact and is a vigilante or otherwise has dual identity or a similar class feature. Opening an attuned whisper safe releases the fact in an audible whisper, after which the box can be used to store another fact as described."
+Crafting cost: "4000 gp"
+Sources: "["Merchant's Manifest"]"
+---
+
+# Whisper Safe
+
+### Properties
+
+**Type:** Wondrous Item **Price:** 8000 gp **Weight:** 0.5 lbs. **Slot:** Slotless
+
+##### Magical properties
+
+**Caster level:** 4 **Aura:** faint conjuration
+
+### Description
+
+A _[[items/Armor Magic Abilities/Mirrored|mirrored]]_ _[[items/Mundane/Mask|mask]]_ emblem adorns this black-lacquered _[[items/Mundane/Jewelry|jewelry]]_ box. When a user speaks a fact into the open box and closes it (a full-round action that provokes attacks of opportunities), the _[[items/Wondrous Item/Whisper Safe|whisper safe]]_ attunes to him. While holding the attuned box, he can spend an immediate action at will to learn how many people know the fact. Furthermore, he can concentrate on the box for 1 minute as if he were concentrating on a spell to learn the general details of each of those people, including alignment, gender, race, character class, and the name by which each person is most commonly known. However, if a person has taken any effort to obscure any of these details from the public eye, the box omits that individual detail or details. Similarly, the box reveals no details about a person who knows the fact and is a _[[classes/Vigilante|vigilante]]_ or otherwise has dual identity or a similar class feature. Opening an attuned _whisper safe_ releases the fact in an audible whisper, after which the box can be used to store another fact as described.
+
+### Crafting requirements
+
+**Crafting cost:** 4000 gp
+
+_[[feats/Craft Wondrous Item|Craft Wondrous Item]]_, _[[spells/Rumormonger|rumormonger]]_
+
+### Sources
+
+* Merchant's Manifest
